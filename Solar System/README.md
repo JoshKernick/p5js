@@ -1,4 +1,4 @@
-Simulation of the 8 planets in our solar system
+Simulation of the 8 planets in our solar system.
 
 Controls:
 
